@@ -17,7 +17,7 @@
 
 ## Description
 
-This MERN application uses Redux, IndexedDB, and secure online payments with Stripe to create a functional e-commerce app.
+This MERN application was refactored to use Redux, in addition to IndexedDB and secure online payments with Stripe to create a functional e-commerce app.
 
 ## Requirements
 
@@ -37,7 +37,7 @@ This MERN application uses Redux, IndexedDB, and secure online payments with Str
 
 ![Screenshot of application](./client/src/assets/screenshot.png)
 
-[Link to deployed Application]()
+[Link to deployed Application](https://evening-fortress-37748.herokuapp.com/)
 
 ## Questions?
 
